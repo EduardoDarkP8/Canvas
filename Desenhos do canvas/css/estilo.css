@@ -1,0 +1,52 @@
+canvas
+{
+ width: 1200px;
+ height: 600px;   
+ border-color: black;
+ border: solid 3px;
+ position: static;
+}
+button
+{
+    
+    padding: 10px 25px;
+}
+#Deike
+{
+    background-color: rgb(51, 53, 78);
+    color:rgb(0, 0, 112);
+    font-size: 16px;
+    font-family: Comic sans ms;
+}
+#Kimi
+{
+    background-color: #ffebfe;
+    color:rgb(255, 104, 242);
+    font-size: 20px;
+    font-family: Arial;
+}
+#Drake
+{
+    background-color: rgb(255, 208, 170);
+    color:rgb(255, 0, 0);
+    font-size: 20px;
+    font-family: Georgia;
+}
+#Mizuko
+{
+    background-color: rgb(191, 255, 182);
+    color:rgb(109, 103, 22);
+    font-size: 18px;
+    font-family: Impact;
+}
+#limpar
+{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: fantasy;
+}
+body
+{
+    background-color: rgb(220, 253, 253);
+}
